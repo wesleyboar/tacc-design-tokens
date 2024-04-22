@@ -1,0 +1,26 @@
+{
+  "name": "Design Tokens",
+  "collections": {
+    "Primitives": {
+      "modes": {
+        "CMS": [
+          "Primitives.CMS.tokens.json"
+        ],
+        "Portal": [
+          "Primitives.Portal.tokens.json"
+        ]
+      }
+    },
+    "Tokens": {
+      "modes": {
+        "Light": [
+          "Tokens.Light.tokens.json"
+        ],
+        "Dark": [
+          "Tokens.Dark.tokens.json"
+        ]
+      }
+    }
+  },
+  "styles": {}
+}
