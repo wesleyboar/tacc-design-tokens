@@ -170,81 +170,93 @@
     },
     "accent": {
       "1": {
-        "xx-light": {
+        "2x-light": {
           "$type": "color",
-          "$value": "{color.accent.1.xx-light}"
+          "$value": "{color.accent.1.3x-dark}"
+        },
+        "3x-light": {
+          "$type": "color",
+          "$value": "{color.accent.1.max-dark}"
         },
         "x-light": {
           "$type": "color",
-          "$value": "{color.accent.1.x-light}"
+          "$value": "{color.accent.1.2x-dark}"
         },
         "light": {
           "$type": "color",
-          "$value": "{color.accent.1.light}"
+          "$value": "{color.accent.1.x-dark}"
         },
         "normal": {
-          "$type": "color",
-          "$value": "{color.accent.1.normal}"
-        },
-        "dark": {
           "$type": "color",
           "$value": "{color.accent.1.dark}"
         },
+        "dark": {
+          "$type": "color",
+          "$value": "{color.accent.1.normal}"
+        },
         "x-dark": {
           "$type": "color",
-          "$value": "{color.accent.1.x-dark}"
+          "$value": "{color.accent.1.light}"
+        },
+        "2x-dark": {
+          "$type": "color",
+          "$value": "{color.accent.1.x-light}"
+        },
+        "3x-dark": {
+          "$type": "color",
+          "$value": "{color.accent.1.2x-light}"
         }
       },
       "2": {
-        "xx-light": {
+        "2x-light": {
           "$type": "color",
-          "$value": "{color.accent.2.xx-light}"
+          "$value": "{color.accent.2.x-dark}"
         },
         "x-light": {
-          "$type": "color",
-          "$value": "{color.accent.2.x-light}"
-        },
-        "light": {
-          "$type": "color",
-          "$value": "{color.accent.2.light}"
-        },
-        "normal": {
-          "$type": "color",
-          "$value": "{color.accent.2.normal}"
-        },
-        "dark": {
           "$type": "color",
           "$value": "{color.accent.2.dark}"
         },
-        "x-dark": {
-          "$type": "color",
-          "$value": "{color.accent.2.x-dark}"
-        }
-      },
-      "3": {
-        "xx-light": {
-          "$type": "color",
-          "$value": "{color.accent.3.xx-light}"
-        },
-        "x-light": {
-          "$type": "color",
-          "$value": "{color.accent.3.x-light}"
-        },
         "light": {
           "$type": "color",
-          "$value": "{color.accent.3.light}"
+          "$value": "{color.accent.2.normal}"
         },
         "normal": {
           "$type": "color",
-          "$value": "{color.accent.3.normal}"
+          "$value": "{color.accent.2.light}"
         },
         "dark": {
           "$type": "color",
-          "$value": "{color.accent.3.dark}"
+          "$value": "{color.accent.2.x-light}"
         },
         "x-dark": {
           "$type": "color",
+          "$value": "{color.accent.2.2x-light}"
+        }
+      },
+      "3": {
+        "2x-light": {
+          "$type": "color",
           "$value": "{color.accent.3.x-dark}"
+        },
+        "x-light": {
+          "$type": "color",
+          "$value": "{color.accent.3.dark}"
+        },
+        "light": {
+          "$type": "color",
+          "$value": "{color.accent.3.normal}"
+        },
+        "normal": {
+          "$type": "color",
+          "$value": "{color.accent.3.light}"
+        },
+        "dark": {
+          "$type": "color",
+          "$value": "{color.accent.3.x-light}"
+        },
+        "x-dark": {
+          "$type": "color",
+          "$value": "{color.accent.3.2x-light}"
         }
       }
     }

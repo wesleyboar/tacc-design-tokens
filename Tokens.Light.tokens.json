@@ -170,9 +170,13 @@
     },
     "accent": {
       "1": {
-        "xx-light": {
+        "2x-light": {
           "$type": "color",
-          "$value": "{color.accent.1.xx-light}"
+          "$value": "{color.accent.1.2x-light}"
+        },
+        "3x-light": {
+          "$type": "color",
+          "$value": "{color.accent.1.3x-light}"
         },
         "x-light": {
           "$type": "color",
@@ -193,12 +197,20 @@
         "x-dark": {
           "$type": "color",
           "$value": "{color.accent.1.x-dark}"
+        },
+        "2x-dark": {
+          "$type": "color",
+          "$value": "{color.accent.1.2x-dark}"
+        },
+        "3x-dark": {
+          "$type": "color",
+          "$value": "{color.accent.1.3x-dark}"
         }
       },
       "2": {
-        "xx-light": {
+        "2x-light": {
           "$type": "color",
-          "$value": "{color.accent.2.xx-light}"
+          "$value": "{color.accent.2.2x-light}"
         },
         "x-light": {
           "$type": "color",
@@ -222,9 +234,9 @@
         }
       },
       "3": {
-        "xx-light": {
+        "2x-light": {
           "$type": "color",
-          "$value": "{color.accent.3.xx-light}"
+          "$value": "{color.accent.3.2x-light}"
         },
         "x-light": {
           "$type": "color",
